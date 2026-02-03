@@ -23,24 +23,32 @@ Desenvolvimento de um sistema integrador para a Unieuro/UnB focado em alunos ido
 - **Stack:** Node.js, Prisma, React, TypeScript.
 - **Foco:** CRUDs complexos, autenticação e acessibilidade.
 
-### 🎵 **MusicHub** (desenvolvimento)
+### 🎵 **MusicHub** (projetando)
 Plataforma de análise musical integrada à API do Spotify.
 - **Stack:** Python, Node.js, React, PostgreSQL.
 - **Funcionalidade:** Análise de BPM, métricas de áudio e conversão entre serviços de streaming.
 
-### 🏦 **Py_SistemaBancario** (desenvolvimento)
+### 🏦 **Py_SistemaBancario** (projetando)
 Simulador de operações bancárias em Python para estudo de lógica e persistência.
 - **Stack:** Python, Flask, PostgreSQL.
+
+### 🎨 **Portfólio Site** (desenvolvendo)
+O objetivo deste projeto é centralizar meus melhores trabalhos como **Desenvolvedor de Software** e **Graphic Designer**, oferecendo uma experiência interativa e visualmente atraente.
+- **HTML5 & CSS3:** Utilizado para construção e design da página
+- **JavaScript:** Utilizado para funcionalidades como criar modais, enviar emails e etc.
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cellixx7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="stats geral" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cellixx7&layout=compact&theme=dark" height="150" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cellixx7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="Estatísticas Gerais" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cellixx7&layout=compact&theme=dark" height="150" alt="Linguagens mais usadas" />
 </p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=cellixx7&theme=dark" height="150" alt="GitHub Streak" />
+</p>
 ---
 
 ## 📫 Onde me encontrar
