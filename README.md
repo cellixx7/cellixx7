@@ -39,15 +39,6 @@ O objetivo deste projeto é centralizar meus melhores trabalhos como **Desenvolv
 
 ---
 
-## 📊 Estatísticas
-
-![Estatísticas de Marcelo](https://github-readme-stats.vercel.app/api?username=cellixx7&show_icons=true&theme=dark&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cellixx7&layout=compact&theme=dark)
-
-![Status do Streak](https://github-readme-streak-stats.herokuapp.com/?user=cellixx7&theme=dark)
----
-
 ## 📫 Onde me encontrar
 
 - **LinkedIn:** [linkedin.com/in/cellixx7](https://linkedin.com/in/cellixx7)
