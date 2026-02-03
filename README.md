@@ -41,14 +41,11 @@ O objetivo deste projeto é centralizar meus melhores trabalhos como **Desenvolv
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cellixx7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="Estatísticas Gerais" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cellixx7&layout=compact&theme=dark" height="150" alt="Linguagens mais usadas" />
-</p>
+![Estatísticas de Marcelo](https://github-readme-stats.vercel.app/api?username=cellixx7&show_icons=true&theme=dark&count_private=true)
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=cellixx7&theme=dark" height="150" alt="GitHub Streak" />
-</p>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cellixx7&layout=compact&theme=dark)
+
+![Status do Streak](https://github-readme-streak-stats.herokuapp.com/?user=cellixx7&theme=dark)
 ---
 
 ## 📫 Onde me encontrar
